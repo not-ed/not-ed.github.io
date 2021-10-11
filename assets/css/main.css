@@ -2271,7 +2271,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #ede9eb;
-				background-image: url("images/overlay.png"),linear-gradient(180deg, #ede9eb0f 0%, #ede9eb 95% ),url("../../images/clouds.png");
+				background-image: url("images/overlay.png"),linear-gradient(180deg, #ede9eb0f 0%, #ede9eb 95% ),url("../../images/banner.png");
 				background-size: auto;
 			}
 
